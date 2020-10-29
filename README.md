@@ -1,3 +1,3 @@
 # Intel-RealSense
 
-Information about Intel-RealSense  Depth camera and ROS Wrapper
+Description about Intel-RealSense  Depth camera and ROS Wrapper
